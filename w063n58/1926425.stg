@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Communications/radome-16m.xml -62.584736 58.488311 487.08 0
+OBJECT_SHARED Models/Communications/radome-16m.xml -62.5845 58.488126 482.45 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -62.592097 58.488188 363.34 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -62.591671 58.488232 366.29 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac -62.664284 58.483073 -48.69 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac -62.663914 58.482804 -48.27 0
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -62.585481 58.489068 463.83 60
