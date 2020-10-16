@@ -113,3 +113,4 @@ OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -60.41328 53.31392 41.43
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -60.41619 53.31218 42.07 306.1
 OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -60.42354 53.30916 43.32 125.1
 # END dsf2stg
+OBJECT_STATIC XL361.ac -60.412005 53.312038 40.89 200
