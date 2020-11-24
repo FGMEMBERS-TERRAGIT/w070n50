@@ -1,2 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac -65.716667 51.883336 597.63 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -65.744444 51.94 516.98 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -65.72414 51.89402 0.00 198.585
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -65.72429 51.89450 601.29 199.814
+# END dsf2stg
